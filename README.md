@@ -59,6 +59,7 @@
 - [YinJC](https://github.com/YinJC)
 - [Zeping Lee](https://github.com/zepinglee)
 - [有龙则灵](https://github.com/htharoldht)
+- rxzfn
 
 
 ## 贡献
